@@ -32,7 +32,24 @@ Dưới đây là một số mẫu điện thoại HONOR cụ thể, được đ
 * **Ưu điểm:** Chipset flagship mạnh nhất, màn hình LTPO chất lượng cao, hệ thống tản nhiệt hiệu quả.
 * **Game đề xuất:** Genshin Impact (cấu hình max), Honkai: Star Rail, diablo Immortal.
 
+## 🔑 Đăng nhập nhanh
 
+Bạn có thể dễ dàng trở thành một phần của cộng đồng **HONOR X GAME** bằng cách đăng nhập nhanh với các tài khoản sau:
+
+
+<p align="center">
+  <a href="https://your-website.com/auth/google">
+    <img src="https://img.shields.io/badge/Đăng_nhập_với_Google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Đăng nhập với Google">
+  </a>
+  <a href="https://your-website.com/auth/microsoft">
+    <img src="https://img.shields.io/badge/Đăng_nhập_với_Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Đăng nhập với Microsoft">
+  </a>
+  <a href="https://your-website.com/auth/facebook">
+    <img src="https://img.shields.io/badge/Đăng_nhập_với_Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Đăng nhập với Facebook">
+  </a>
+</p>
+
+---
 ## 🤝 Đóng góp
 
 Mọi sự đóng góp đều được hoan nghênh! Nếu bạn có ý tưởng cải tiến, vui lòng fork repository và tạo một **Pull Request**.
