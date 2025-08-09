@@ -1,4 +1,9 @@
-# 🎮 HONOR X GAME
+<div style="text-align: center; margin-bottom: 25px;">
+  <form action="https://github.com/NullRacer825570/Honor-x-Game/search" style="display: inline-block;">
+    <input type="text" name="q" placeholder="Tìm kiếm trong repository..." style="width: 300px; padding: 10px; border: 1px solid #ccc; border-radius: 20px; font-size: 16px;">
+    <button type="submit" style="padding: 10px 15px; border: none; border-radius: 20px; background-color: #007bff; color: #fff; cursor: pointer; font-size: 16px; margin-left: 5px;">Tìm</button>
+  </form>
+</div># 🎮 HONOR X GAME
 
 > Nền tảng dành cho cộng đồng game thủ yêu thích điện thoại HONOR. Khám phá các dòng điện thoại, game đề xuất và những mẹo chiến game đỉnh cao!
 
