@@ -16,7 +16,7 @@ HONOR nổi bật với danh mục đa dạng. Dưới đây là mô tả chi ti
 * **Giới thiệu:** Dòng Magic là flagship của HONOR với chip hàng đầu, màn hình OLED chất lượng, RAM lớn và tản nhiệt xịn — phù hợp cho game nặng.
 * **Game đề xuất:** Genshin Impact, Honkai: Star Rail, Call of Duty Mobile (cấu hình max).
 
----## 📱 Đề xuất máy HONOR cho game thủ
+## 📱 Đề xuất máy HONOR cho game thủ
 
 Dưới đây là một số mẫu điện thoại HONOR cụ thể, được đề xuất cho các nhu cầu chơi game khác nhau:
 
